@@ -12,7 +12,7 @@ __all__ = [
     "is_valid_director_id", "normalise_director_id",
     "is_valid_vin", "normalise_vin",
 ]
-__version__ = "0.1.0"
+__version__ = "1.0.0"
 
 _SEPARATORS = re.compile(r"[ \t\n\r\v\f-]")
 _ABN_WEIGHTS = (10, 1, 3, 5, 7, 9, 11, 13, 15, 17, 19)

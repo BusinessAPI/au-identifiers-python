@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "au-identifiers"
-version = "0.1.0"
+version = "1.0.0"
 description = "Validate and format Australian identifiers: ABN, ACN, ARBN, TFN, Director ID and VIN."
 readme = "README.md"
 license = "MIT"
