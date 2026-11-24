@@ -1,0 +1,508 @@
+{
+ "valid": [
+  {
+   "type": "abn",
+   "value": "51 824 753 556",
+   "valid": true
+  },
+  {
+   "type": "abn",
+   "value": "51824753556",
+   "valid": true
+  },
+  {
+   "type": "abn",
+   "value": "53 004 085 616",
+   "valid": true
+  },
+  {
+   "type": "abn",
+   "value": "88 000 014 675",
+   "valid": true
+  },
+  {
+   "type": "abn",
+   "value": "33 051 775 556",
+   "valid": true
+  },
+  {
+   "type": "abn",
+   "value": "51-824-753-556",
+   "valid": true
+  },
+  {
+   "type": "abn",
+   "value": "51 824 753 557",
+   "valid": false
+  },
+  {
+   "type": "abn",
+   "value": "12345678901",
+   "valid": false
+  },
+  {
+   "type": "abn",
+   "value": "10000000000",
+   "valid": true
+  },
+  {
+   "type": "abn",
+   "value": "5182475355",
+   "valid": false
+  },
+  {
+   "type": "abn",
+   "value": "518247535560",
+   "valid": false
+  },
+  {
+   "type": "abn",
+   "value": "00000000000",
+   "valid": false
+  },
+  {
+   "type": "abn",
+   "value": "",
+   "valid": false
+  },
+  {
+   "type": "acn",
+   "value": "004 085 616",
+   "valid": true
+  },
+  {
+   "type": "acn",
+   "value": "000 000 019",
+   "valid": true
+  },
+  {
+   "type": "acn",
+   "value": "000 250 000",
+   "valid": true
+  },
+  {
+   "type": "acn",
+   "value": "005 499 981",
+   "valid": true
+  },
+  {
+   "type": "acn",
+   "value": "010 499 966",
+   "valid": true
+  },
+  {
+   "type": "acn",
+   "value": "010 749 961",
+   "valid": true
+  },
+  {
+   "type": "acn",
+   "value": "004085616",
+   "valid": true
+  },
+  {
+   "type": "acn",
+   "value": "004-085-616",
+   "valid": true
+  },
+  {
+   "type": "acn",
+   "value": "004 085 617",
+   "valid": false
+  },
+  {
+   "type": "acn",
+   "value": "123456789",
+   "valid": false
+  },
+  {
+   "type": "acn",
+   "value": "00408561",
+   "valid": false
+  },
+  {
+   "type": "acn",
+   "value": "0040856160",
+   "valid": false
+  },
+  {
+   "type": "acn",
+   "value": "",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "100000036",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "321321321",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "622021135",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "123456782",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "876543210",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "123 456 782",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "123-456-782",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "15195598",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "15195606",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "28927370",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "37118629",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "123456789",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "12345678",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "87654321",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "10000006",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "00000000",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "000000000",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "012345678",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "1234567890",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "012345673",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "012 345 673",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "012345674",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "1234567",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "123456782",
+   "valid": true,
+   "individual": true
+  },
+  {
+   "type": "tfn",
+   "value": "100000036",
+   "valid": true,
+   "individual": true
+  },
+  {
+   "type": "tfn",
+   "value": "15195606",
+   "valid": false,
+   "individual": true
+  },
+  {
+   "type": "tfn",
+   "value": "28927370",
+   "valid": false,
+   "individual": true
+  },
+  {
+   "type": "tfn",
+   "value": "123456789",
+   "valid": false,
+   "individual": true
+  },
+  {
+   "type": "tfn",
+   "value": "012345673",
+   "valid": true,
+   "individual": true
+  },
+  {
+   "type": "tfn",
+   "value": "012345674",
+   "valid": false,
+   "individual": true
+  },
+  {
+   "type": "vin",
+   "value": "1HGCM82633A004352",
+   "valid": true
+  },
+  {
+   "type": "vin",
+   "value": "JH4KA7561PC008269",
+   "valid": true
+  },
+  {
+   "type": "vin",
+   "value": "6T1BF3FK90X123456",
+   "valid": true
+  },
+  {
+   "type": "vin",
+   "value": "1hgcm82633a004352",
+   "valid": true
+  },
+  {
+   "type": "vin",
+   "value": " 1HGCM82633A004352 ",
+   "valid": true
+  },
+  {
+   "type": "vin",
+   "value": "1HGCM82633A00435",
+   "valid": false
+  },
+  {
+   "type": "vin",
+   "value": "1HGCM82633A0043521",
+   "valid": false
+  },
+  {
+   "type": "vin",
+   "value": "1HGCM82633I004352",
+   "valid": false
+  },
+  {
+   "type": "vin",
+   "value": "1HGCM82633O004352",
+   "valid": false
+  },
+  {
+   "type": "vin",
+   "value": "1HGCM82633Q004352",
+   "valid": false
+  },
+  {
+   "type": "vin",
+   "value": "",
+   "valid": false
+  },
+  {
+   "type": "abn",
+   "value": "51a824753556",
+   "valid": false
+  },
+  {
+   "type": "abn",
+   "value": "ABN 51 824 753 556",
+   "valid": false
+  },
+  {
+   "type": "acn",
+   "value": "004.085.616x",
+   "valid": false
+  },
+  {
+   "type": "tfn",
+   "value": "123x456782",
+   "valid": false
+  },
+  {
+   "type": "acn",
+   "value": "ACN 004 085 616",
+   "valid": false
+  },
+  {
+   "type": "abn",
+   "value": "51 824753556",
+   "valid": false
+  },
+  {
+   "type": "abn",
+   "value": "51　824753556",
+   "valid": false
+  },
+  {
+   "type": "abn",
+   "value": "51 824753556",
+   "valid": false
+  },
+  {
+   "type": "abn",
+   "value": "51\t824\n753556",
+   "valid": true
+  },
+  {
+   "type": "tfn",
+   "value": "123 456782",
+   "valid": false
+  },
+  {
+   "type": "vin",
+   "value": "ſHGCM82633A004352",
+   "valid": false
+  },
+  {
+   "type": "vin",
+   "value": "　1HGCM82633A004352",
+   "valid": false
+  },
+  {
+   "type": "vin",
+   "value": " 1HGCM82633A004352",
+   "valid": false
+  },
+  {
+   "type": "vin",
+   "value": "\t1HGCM82633A004352\n",
+   "valid": true
+  },
+  {
+   "type": "vin",
+   "value": "1HGCM82633A00435é",
+   "valid": false
+  },
+  {
+   "type": "did",
+   "value": "036123456789012",
+   "valid": true
+  },
+  {
+   "type": "did",
+   "value": "036 123 456 789 012",
+   "valid": true
+  },
+  {
+   "type": "did",
+   "value": "036-123-456-789-012",
+   "valid": true
+  },
+  {
+   "type": "did",
+   "value": "037123456789012",
+   "valid": false
+  },
+  {
+   "type": "did",
+   "value": "03612345678901",
+   "valid": false
+  },
+  {
+   "type": "did",
+   "value": "0361234567890123",
+   "valid": false
+  },
+  {
+   "type": "did",
+   "value": "036123456789O12",
+   "valid": false
+  },
+  {
+   "type": "did",
+   "value": "036 123456789012",
+   "valid": false
+  },
+  {
+   "type": "did",
+   "value": "",
+   "valid": false
+  }
+ ],
+ "format": [
+  {
+   "type": "abn",
+   "value": "51824753556",
+   "expected": "51 824 753 556"
+  },
+  {
+   "type": "abn",
+   "value": "51-824-753-556",
+   "expected": "51 824 753 556"
+  },
+  {
+   "type": "abn",
+   "value": "51824753557",
+   "expected": null
+  },
+  {
+   "type": "acn",
+   "value": "004085616",
+   "expected": "004 085 616"
+  },
+  {
+   "type": "acn",
+   "value": "004 085 617",
+   "expected": null
+  },
+  {
+   "type": "vin",
+   "value": " 1hgcm82633a004352 ",
+   "expected": "1HGCM82633A004352"
+  },
+  {
+   "type": "vin",
+   "value": "1HGCM82633I004352",
+   "expected": null
+  }
+ ]
+}
