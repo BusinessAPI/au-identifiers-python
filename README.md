@@ -1,4 +1,4 @@
-# au-identifiers
+# Australian ABN, ACN and TFN Validation for Python
 
 Validate and format Australian identifiers in Python: ABN, ACN, ARBN, TFN, Director ID and VIN.
 
